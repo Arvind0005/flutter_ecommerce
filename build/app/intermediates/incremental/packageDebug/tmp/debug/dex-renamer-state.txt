@@ -1,0 +1,4 @@
+#Fri Apr 21 17:31:46 GMT+05:30 2023
+base.0=D\:\\Arvind_workspace\\projects\\quantumapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
